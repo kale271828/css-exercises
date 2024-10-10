@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(201, 127, 118);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.second {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: rgb(112, 192, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
